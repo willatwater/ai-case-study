@@ -3,7 +3,7 @@
 ## Digital Wildcatters Case Study – Will Atwater
 ## Overview and Origin
 
-* Name of company
+* Name of company: 
 Digital Wildcatters
 * When was the company incorporated?
 2018
